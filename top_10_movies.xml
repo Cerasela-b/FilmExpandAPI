@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<top_movies>
+  <movie>
+    <title>The Shawshank Redemption</title>
+    <release_year>1994</release_year>
+    <genre>Drama</genre>
+    <director>Frank Darabont</director>
+    <country>USA</country>
+    <duration>142</duration>
+    <imdb_rating>9.3</imdb_rating>
+    <main_actors>Tim Robbins, Morgan Freeman, Bob Gunton</main_actors>
+    <imdb_nb_votes>3031101.0</imdb_nb_votes>
+  </movie>
+  <movie>
+    <title>The Godfather</title>
+    <release_year>1972</release_year>
+    <genre>Crime, Drama</genre>
+    <director>Francis Ford Coppola</director>
+    <country>USA</country>
+    <duration>175</duration>
+    <imdb_rating>9.2</imdb_rating>
+    <main_actors>Marlon Brando, Al Pacino, James Caan</main_actors>
+    <imdb_nb_votes>2108592.0</imdb_nb_votes>
+  </movie>
+  <movie>
+    <title>12 Angry Men</title>
+    <release_year>1957</release_year>
+    <genre>Drama</genre>
+    <director>Sidney Lumet</director>
+    <country>USA</country>
+    <duration>96</duration>
+    <imdb_rating>9.0</imdb_rating>
+    <main_actors>Henry Fonda, Lee J. Cobb, Martin Balsam</main_actors>
+    <imdb_nb_votes>920922.0</imdb_nb_votes>
+  </movie>
+  <movie>
+    <title>Schindler's List</title>
+    <release_year>1993</release_year>
+    <genre>Biography, Drama, History</genre>
+    <director>Steven Spielberg</director>
+    <country>USA</country>
+    <duration>195</duration>
+    <imdb_rating>9.0</imdb_rating>
+    <main_actors>Liam Neeson, Ralph Fiennes, Ben Kingsley</main_actors>
+    <imdb_nb_votes>1517035.0</imdb_nb_votes>
+  </movie>
+  <movie>
+    <title>Pulp Fiction</title>
+    <release_year>1994</release_year>
+    <genre>Crime, Drama</genre>
+    <director>Quentin Tarantino</director>
+    <country>USA</country>
+    <duration>154</duration>
+    <imdb_rating>8.9</imdb_rating>
+    <main_actors>John Travolta, Uma Thurman, Samuel L. Jackson</main_actors>
+    <imdb_nb_votes>2318236.0</imdb_nb_votes>
+  </movie>
+  <movie>
+    <title>The Lord of the Rings: The Fellowship of the Ring</title>
+    <release_year>2001</release_year>
+    <genre>Adventure, Drama, Fantasy</genre>
+    <director>Peter Jackson</director>
+    <country>New Zealand</country>
+    <duration>178</duration>
+    <imdb_rating>8.9</imdb_rating>
+    <main_actors>Elijah Wood, Ian McKellen, Orlando Bloom</main_actors>
+    <imdb_nb_votes>2091490.0</imdb_nb_votes>
+  </movie>
+  <movie>
+    <title>Inception</title>
+    <release_year>2010</release_year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+    <director>Christopher Nolan</director>
+    <country>USA</country>
+    <duration>148</duration>
+    <imdb_rating>8.8</imdb_rating>
+    <main_actors>Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page</main_actors>
+    <imdb_nb_votes>2671882.0</imdb_nb_votes>
+  </movie>
+  <movie>
+    <title>Fight Club</title>
+    <release_year>1999</release_year>
+    <genre>Drama</genre>
+    <director>David Fincher</director>
+    <country>USA</country>
+    <duration>139</duration>
+    <imdb_rating>8.8</imdb_rating>
+    <main_actors>Brad Pitt, Edward Norton, Meat Loaf</main_actors>
+    <imdb_nb_votes>2456010.0</imdb_nb_votes>
+  </movie>
+  <movie>
+    <title>Forrest Gump</title>
+    <release_year>1994</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Robert Zemeckis</director>
+    <country>USA</country>
+    <duration>142</duration>
+    <imdb_rating>8.8</imdb_rating>
+    <main_actors>Tom Hanks, Robin Wright, Gary Sinise</main_actors>
+    <imdb_nb_votes>2368927.0</imdb_nb_votes>
+  </movie>
+  <movie>
+    <title>Goodfellas</title>
+    <release_year>1990</release_year>
+    <genre>Biography, Crime, Drama</genre>
+    <director>Martin Scorsese</director>
+    <country>USA</country>
+    <duration>146</duration>
+    <imdb_rating>8.7</imdb_rating>
+    <main_actors>Robert De Niro, Ray Liotta, Joe Pesci</main_actors>
+    <imdb_nb_votes>1319523.0</imdb_nb_votes>
+  </movie>
+</top_movies>
